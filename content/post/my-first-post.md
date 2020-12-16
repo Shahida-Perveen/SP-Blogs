@@ -1,7 +1,9 @@
 ---
 title: "My First Post"
 date: 2020-12-16T21:05:12+01:00
-draft: true
+draft: false
+tags: ["projects"]
+categories: ["Life"]
 ---
 
 
