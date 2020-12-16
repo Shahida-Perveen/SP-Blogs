@@ -4,7 +4,10 @@ date: 2020-12-16T21:05:12+01:00
 draft: false
 tags: ["projects"]
 categories: ["Life"]
+authorAvatar: "shahida.png"
+image: "sunny_day.jpg"
 ---
+
 
 
 
