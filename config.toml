@@ -42,12 +42,12 @@ publishDir = "docs"
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 200
+  weight = 100
 
 [[menu.main]]
   name = "Project"
   url = "/tags/project/"
-  weight = 200
+  weight = 100
 
 [[menu.main]]
   name = "Life"
