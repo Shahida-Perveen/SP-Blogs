@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>/posts/</link>
+    <link>https://shahida-perveen.github.io/SP-Blogs/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Dec 2020 12:02:53 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 12:02:53 +0100</lastBuildDate><atom:link href="https://shahida-perveen.github.io/SP-Blogs/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://shahida-perveen.github.io/SP-Blogs/posts/my-first-post/</link>
       <pubDate>Wed, 16 Dec 2020 12:02:53 +0100</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://shahida-perveen.github.io/SP-Blogs/posts/my-first-post/</guid>
       <description>Just CHecking WHat do you think The issue was raised again in 1923 during the İzmir Economic Congress of the new Turkish Republic, sparking a public debate that was to continue for several years. A move away from the Arabic script was strongly opposed by conservative and religious elements. It was argued that Romanization of the script would detach Turkey from the wider Islamic world, substituting a foreign (European) concept of national identity for the confessional community.</description>
     </item>
     
