@@ -8,6 +8,9 @@ authorAvatar: Shahida.png
 image: sunset.jpg
 weight: 10
 linktitle: My First Post
+nomenu:
+  main:
+    parent: Projects
 ---
 
 
