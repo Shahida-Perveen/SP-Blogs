@@ -4,9 +4,7 @@ languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 publishDir = "docs"
-uglyurls = "true"
-canonifyURLs = "true"
-
+ 
 #SectionPagesMenu = "main"
 
 
