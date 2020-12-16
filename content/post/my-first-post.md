@@ -5,7 +5,7 @@ draft: false
 tags: ["Life"]
 categories: ["Life"]
 authorAvatar: Shahida.png
-image: sunny_day.jpg
+image: tulips.jpg
 weight: 8    
 ---
 
