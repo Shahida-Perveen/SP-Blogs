@@ -6,11 +6,11 @@ tags: ["Project"]
 categories: ["Project"]
 authorAvatar: Shahida.png
 image: sunset.jpg
-weight: 10
+weight: 8
 linktitle: My First Post
 nomenu:
   main:
-    parent: Projects
+    
 ---
 
 

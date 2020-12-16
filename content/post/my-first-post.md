@@ -2,15 +2,15 @@
 title: My First Post
 date: 2020-12-16T21:05:12+01:00
 draft: false
-tags: ["Project"]
+tags: ["Life"]
 categories: ["Life"]
 authorAvatar: Shahida.png
 image: sunny_day.jpg
-weight: 10
+weight: 8
 linktitle: My First Post
 nomenu:
   main:
-    parent: Life
+    
 ---
 
 
