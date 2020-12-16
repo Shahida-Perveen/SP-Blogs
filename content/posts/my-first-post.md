@@ -1,13 +1,13 @@
-+++
-title = "My First Post"
-date = 2020-12-16T12:02:53+01:00
-image = "sunny_day.jpg"
-author = "Shahida Perveen" 
-linktitle = My First Post
-authorAvatar = "shahida.png"
-tags = ["project"]
-categories = ["Life"]
-+++
+---
+title : "My First Post"
+date : 2020-12-16T12:02:53+01:00
+image : "sunny_day.jpg"
+author : "Shahida Perveen" 
+linktitle : My First Post
+authorAvatar : "shahida.png"
+tags : ["project"]
+categories : ["Life"]
+---
 
 # Just CHecking
 ## WHat do you think
