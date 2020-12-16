@@ -21,7 +21,7 @@ publishDir = "docs"
   githubName = "shahida-perveen"
 
   author = "Shahida Perveen"
-  authorAvatar = "shahida.png"
+  authorAvatar = "Shahida.png"
   authorLocation = "Jeddah, KSA"
   authorWebsite = "https://shahida-perveen.github.io/SP-Blogs/"
   authorDescription = "Second year Master's student of Digital Humanities.."
