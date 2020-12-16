@@ -1,8 +1,7 @@
 ---
 title: "My First Post"
 date: 2020-12-16T12:02:53+01:00
-author : "Shahida Perveen"
-draft: false
+author : "Shahida Perveen" 
 ---
 # Just CHecking
 ## WHat do you think
