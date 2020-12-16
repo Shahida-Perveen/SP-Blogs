@@ -6,6 +6,8 @@ paginate        = 6
 publishDir = "docs"
 #SectionPagesMenu = "main"
 
+uglyurls = true
+
 [params]
   title       = " Reflections of a Big Little Girl"
   subtitle    = "Shahida Perveen's Blog"
