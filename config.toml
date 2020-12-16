@@ -10,8 +10,8 @@ publishDir = "docs"
   title       = " Reflections of a Big Little Girl"
   subtitle    = "Shahida Perveen's Blog"
 
-  cover       = "sunset.jpg"
-  description = "My First venture into the Blogging world"
+  cover       = "pathway.jpg"
+  description = "My First venture into the Blogging World"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -19,11 +19,6 @@ publishDir = "docs"
 
   twitterName = "Mrs_spali"
   githubName = "shahida-perveen"
-
-  logo = ""
-  orgName = "SP"
-  orgWebsite = "https://shahida-perveen.github.io/SP-Blogs/"
-  orgDescription = "Here is a description placeholder for your org"
 
   author = "Shahida Perveen"
   authorAvatar = "shahida.png"
@@ -42,7 +37,7 @@ publishDir = "docs"
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 100
+  weight = 200
 
 [[menu.main]]
   name = "Project"
