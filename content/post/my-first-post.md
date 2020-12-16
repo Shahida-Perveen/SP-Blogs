@@ -6,11 +6,7 @@ tags: ["Life"]
 categories: ["Life"]
 authorAvatar: Shahida.png
 image: sunny_day.jpg
-weight: 8
-linktitle: My First Post
-nomenu:
-  main:
-    
+weight: 8    
 ---
 
 

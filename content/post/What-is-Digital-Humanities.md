@@ -7,14 +7,11 @@ categories: ["Project"]
 authorAvatar: Shahida.png
 image: sunset.jpg
 weight: 8
-linktitle: My First Post
-nomenu:
-  main:
-    
 ---
 
 
-# Digital Humanities according to my understanding...
+# Digital Humanities as per my understanding...      
+
 
 
 In the early 2000s with explosive development in Communications Technologies and the digital Revolution emerged a new discipline **Digital Humanities**. In DH, digital Technologies intersect with Humanities in the most interesting ways. This approach has new relevance in the context of the covid-19 that has probably dealt a knockout blow to the traditional approaches in education. Today, students have to break free from the tyranny of the printed text and move confidently into the fluid dynamics of interdisciplinarity.   
