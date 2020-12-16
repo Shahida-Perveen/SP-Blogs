@@ -7,7 +7,7 @@ publishDir = "docs"
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Reflections of a Big Little Girl"
+  title       = " Little Girl"
   subtitle    = "Shahida Perveen's Blog"
 
   cover       = "sunset.jpg"
@@ -22,13 +22,13 @@ publishDir = "docs"
 
   logo = ""
   orgName = "SP"
-  orgWebsite = "https://www.telematika.org"
+  orgWebsite = "https://shahida-perveen.github.io/SP-Blogs/"
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Shahida Perveen"
   authorAvatar = "shahida.png"
   authorLocation = "Jeddah, KSA"
-  authorWebsite = "https://eueung.github.io"
+  authorWebsite = "https://shahida-perveen.github.io/SP-Blogs/"
   authorDescription = "Second year Master's student of Digital Humanities.."
 
   pageNotFoundTitle = "404 - Page not found"
@@ -47,7 +47,7 @@ publishDir = "docs"
 [[menu.main]]
   name = "Projects"
   url = "/tags/golang/"
-  weight = 100
+  weight = 200
 
 [[menu.main]]
   name = "Life"
