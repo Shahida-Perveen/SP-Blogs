@@ -46,7 +46,7 @@ publishDir = "docs"
 
 [[menu.main]]
   name = "Project"
-  url = "/tags/projecthugo/"
+  url = "/tags/project/"
   weight = 200
 
 [[menu.main]]
