@@ -7,7 +7,7 @@ publishDir = "docs"
 #SectionPagesMenu = "main"
 
 [params]
-  title       = " Little Girl"
+  title       = " Reflections of a Big Little Girl"
   subtitle    = "Shahida Perveen's Blog"
 
   cover       = "sunset.jpg"
@@ -45,8 +45,8 @@ publishDir = "docs"
   weight = 200
 
 [[menu.main]]
-  name = "Projects"
-  url = "/tags/golang/"
+  name = "Project"
+  url = "/tags/projecthugo/"
   weight = 200
 
 [[menu.main]]

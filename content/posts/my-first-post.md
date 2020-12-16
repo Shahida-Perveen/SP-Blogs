@@ -1,7 +1,14 @@
 ---
 title: "My First Post"
 date: 2020-12-16T12:02:53+01:00
+image : "sunny_day.jpg"
 author : "Shahida Perveen" 
+next: /tutorials/github-pages-blog
+prev: /tutorials/automated-deployments
+weight: 10
+authorAvatar: "shahida.png"
+tags: ["project"]
+categories: ["Life"]
 ---
 # Just CHecking
 ## WHat do you think
