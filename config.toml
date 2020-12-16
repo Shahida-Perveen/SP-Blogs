@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://shahida-perveen.github.io/SP-Blogs/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
