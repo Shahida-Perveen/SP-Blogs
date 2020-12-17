@@ -7,10 +7,10 @@ categories: ["Project"]
 authorAvatar: Shahida.png
 author: "Shahida Perveen"
 image: code.jpg
-weight: 8
+weight: 4
 ---
 
-# Tools for Digital Humanities    
+## Tools for Digital Humanities    
 
 
 
