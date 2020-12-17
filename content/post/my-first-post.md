@@ -21,7 +21,7 @@ I have absolutely no idea what I am going to write about.
 Hopefully, we will dive into this blogging world together and explore how it goes.    
 
 
-**Happy Exploring...***
+**Happy Exploring...**
 
 
 
