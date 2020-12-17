@@ -42,4 +42,4 @@ Other interesting projects include curating digital exhibitions and museums on a
 In short, Digital  Humanities tries to put people in a better position to understand unknown or difficult disciplines or topics. So, what are you waiting for?     
 
 
-Let's dive in...
+*Let's dive in...*
