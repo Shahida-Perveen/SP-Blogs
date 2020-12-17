@@ -1,5 +1,5 @@
 ---
-title: "What Is Digital Humanities"
+title: Digital Humanities as per my understanding...
 date: 2020-12-16T22:36:01+01:00
 draft: false
 tags: ["Project"]
