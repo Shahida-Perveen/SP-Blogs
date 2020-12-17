@@ -6,7 +6,8 @@ tags: ["Life"]
 categories: ["Life"]
 author: "Shahida Perveen"
 authorAvatar: Shahida.png
-image: sunset.jpg    
+image: sunset.jpg  
+weight: 4  
 ---
 
 ## My Experiments with Videography    
