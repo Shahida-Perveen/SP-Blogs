@@ -20,15 +20,13 @@ So, brace yourself...
 ### Beauty as I know it     
 
 
-I was suppose to make a video on any subject of my choice, so I decided to make this one. It is filmed, edited and scripted by yours truly. Hope you like it :)  
-
- [![Beauty as I know it](http://img.youtube.com/vi/VDBc_3KsCHk/0.jpg)](http://www.youtube.com/watch?v=VDBc_3KsCHk "Beauty as I know it")
+I was suppose to make a video on any subject of my choice, so I decided to make this one. It is filmed, edited and scripted by yours truly. Hope you like it :)
+[![Beauty as I know it](http://img.youtube.com/vi/VDBc_3KsCHk/0.jpg)](http://www.youtube.com/watch?v=VDBc_3KsCHk "Beauty as I know it")
    
 
 ### Stop Motion Video    
 
-I also made a *Stop Motion Video*     
-
+I also made a *Stop Motion Video*
 [![Stop Motion Video](http://img.youtube.com/vi/xMSf8gDxBdU/0.jpg)](http://www.youtube.com/watch?v=xMSf8gDxBdU "Stop Motion Video")
 
  
