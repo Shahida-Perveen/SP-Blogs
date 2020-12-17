@@ -18,6 +18,10 @@ weight: 8
 This is my *first* ever **blogpost** so bear with me.     
 
 I have absolutely no idea what I am going to write about.
+Hopefully, we will dive into this blogging world together and explore how it goes.    
+
+
+**Happy Exploring...***
 
 
 
