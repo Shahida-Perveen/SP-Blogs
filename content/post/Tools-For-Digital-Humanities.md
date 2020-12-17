@@ -32,7 +32,7 @@ Text mining or text analysis, transform unstructured text data into meaningful i
 
 - [voyant-tools.org](https://voyant-tools.org/) It is a web-based reading and analysis environment for digital texts.     
 
-- [Google Books NGram Viewer](https://books.google.com/ngrams) It analyzes the usage and changes that occur in a **word** and allow users to use that data for their repsoective research.   
+- [Google Books NGram Viewer](https://books.google.com/ngrams) It analyzes the usage and changes that occur in a *word* and allow users to use that data for their repsoective research.   
 
 
 - [Juxta](https://www.juxtasoftware.org/about/) It is a cross-platform tool that is used to collate, compare, and analyze different any kinds or numbers of textual objects.       

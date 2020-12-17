@@ -22,4 +22,14 @@ So, brace yourself...
 
 I was suppose to make a video on any subject of my choice, so I decided to make this one. It is filmed, edited and scripted by yours truly. Hope you like it :)    
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDBc_3KsCHk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDBc_3KsCHk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+
+### Stop Motion Video    
+
+I also made a *Stop Motion Video*      
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xMSf8gDxBdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+
