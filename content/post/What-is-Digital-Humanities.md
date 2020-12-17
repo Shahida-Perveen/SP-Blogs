@@ -5,7 +5,7 @@ draft: false
 tags: ["Project"]
 categories: ["Project"]
 authorAvatar: Shahida.png
-image: sunset.jpg
+image: coding.jpg
 weight: 8
 ---
 
