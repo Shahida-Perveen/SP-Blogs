@@ -25,7 +25,7 @@ So, what are some of the digital tools that Digital Humanities utilizes?
 
 Following is a list of different web sites, databases and resources that can be consumed for digital scholarship.
 
-## Text Analysis and Data Mining    
+### Text Analysis and Data Mining    
 
 Text mining or text analysis, transform unstructured text data into meaningful information witht he help of different AI technologies. It is a process that automatically process data and provide valuable insights that can help us in making data-driven decisions. Following are some of online text analysis and data mining sites:      
 
@@ -38,7 +38,7 @@ Text mining or text analysis, transform unstructured text data into meaningful i
 - [Juxta](https://www.juxtasoftware.org/about/) It is a cross-platform tool that is used to collate, compare, and analyze different any kinds or numbers of textual objects.       
 
 
-## Digital Repositories   
+### Digital Repositories   
 
 
 Digital repositories are content dissemination tools where each resource is described using metadata, and can exchange information with other digital repositories through interoperability. Some examples:     
@@ -50,7 +50,7 @@ Digital repositories are content dissemination tools where each resource is desc
 - [Select Tools from Datavisualization.ch](https://datavisualization.ch/tools/) This website is a premier news and knowledge resource for data visualization and infographics.      
 
 
-## Story Telling Tools    
+### Story Telling Tools    
 
 
 Story telling tools in today's digital world are utilization of different digital tools such as timelines, audio, videos and images to create non-traditional forms of teaching and scholarship. For example,    
@@ -62,7 +62,7 @@ Story telling tools in today's digital world are utilization of different digita
 - [Timeline.js](https://timeline.knightlab.com/) Developed by Northwestern University Knight Lab, this Lab provides the ability to create interactive timelines with images, videos and other online content with the help of Java and a Google Sheets template.     
 
 
-## Data Visualization      
+### Data Visualization      
 
 
 When we graphically represent information and data with the help of visual elements like charts, graphs, and maps, this process is called Data Visualization. Some online resources that can be availed in this regard are:     
