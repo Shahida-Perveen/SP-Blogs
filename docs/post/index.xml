@@ -6,22 +6,31 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Dec 2020 22:36:01 +0100</lastBuildDate><atom:link href="https://shahida-perveen.github.io/SP-Blogs/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Dec 2020 06:25:48 +0100</lastBuildDate><atom:link href="https://shahida-perveen.github.io/SP-Blogs/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools for Digital Humanities</title>
+      <link>https://shahida-perveen.github.io/SP-Blogs/tools-for-digital-humanities/</link>
+      <pubDate>Thu, 17 Dec 2020 06:25:48 +0100</pubDate>
+      
+      <guid>https://shahida-perveen.github.io/SP-Blogs/tools-for-digital-humanities/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>What is Digital Humanities</title>
-      <link>https://shahida-perveen.github.io/SP-Blogs/post/what-is-digital-humanities/</link>
+      <link>https://shahida-perveen.github.io/SP-Blogs/what-is-digital-humanities/</link>
       <pubDate>Wed, 16 Dec 2020 22:36:01 +0100</pubDate>
       
-      <guid>https://shahida-perveen.github.io/SP-Blogs/post/what-is-digital-humanities/</guid>
+      <guid>https://shahida-perveen.github.io/SP-Blogs/what-is-digital-humanities/</guid>
       <description>Digital Humanities as per my understanding&amp;hellip; In the early 2000s with explosive development in Communications Technologies and the digital Revolution emerged a new discipline Digital Humanities. In DH, digital Technologies intersect with Humanities in the most interesting ways. This approach has new relevance in the context of the covid-19 that has probably dealt a knockout blow to the traditional approaches in education. Today, students have to break free from the tyranny of the printed text and move confidently into the fluid dynamics of interdisciplinarity.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://shahida-perveen.github.io/SP-Blogs/post/my-first-post/</link>
+      <link>https://shahida-perveen.github.io/SP-Blogs/my-first-post/</link>
       <pubDate>Wed, 16 Dec 2020 21:05:12 +0100</pubDate>
       
-      <guid>https://shahida-perveen.github.io/SP-Blogs/post/my-first-post/</guid>
+      <guid>https://shahida-perveen.github.io/SP-Blogs/my-first-post/</guid>
       <description>Hi there, Shahida here&amp;hellip; This is my first ever blogpost so bear with me.
 I have absolutely no idea what I am going to write about.</description>
     </item>
