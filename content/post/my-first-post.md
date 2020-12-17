@@ -7,7 +7,9 @@ categories: ["Life"]
 author: "Shahida Perveen"
 authorAvatar: Shahida.png
 image: tulips.jpg
-weight: 8    
+weight: 8   
+ 
+ 
 ---
 
 
@@ -22,6 +24,7 @@ Hopefully, we will dive into this blogging world together and explore how it goe
 
 
 **Happy Exploring...**
+
 
 
 
