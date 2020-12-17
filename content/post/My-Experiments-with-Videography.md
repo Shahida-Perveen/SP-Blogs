@@ -28,7 +28,11 @@ I was suppose to make a video on any subject of my choice, so I decided to make 
 
 ### Stop Motion Video    
 
-I also made a *Stop Motion Video*      
+I also made a *Stop Motion Video*     
+
+
+
+{{< youtube xMSf8gDxBdU >}}
 
  
 
