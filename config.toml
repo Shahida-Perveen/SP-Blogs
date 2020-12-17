@@ -3,8 +3,7 @@ theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
-publishDir = "docs"
- 
+publishDir = "docs" 
 #SectionPagesMenu = "main"
 
 
@@ -34,7 +33,7 @@ publishDir = "docs"
   singleViewStyle = "casper"
 
 [permalinks]
-  post = ":slug/"
+  post = "/:slug/"
 
 [[menu.main]]
   name = "Home"

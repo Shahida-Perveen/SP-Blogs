@@ -2,7 +2,7 @@
 title: What is Digital Humanities
 date: 2020-12-16T22:36:01+01:00
 draft: false
-tags: ["Project", Life"]
+tags: ["Project"]
 categories: ["Project"]
 authorAvatar: Shahida.png
 image: sunset.jpg
