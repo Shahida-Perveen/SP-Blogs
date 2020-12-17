@@ -8,7 +8,7 @@ publishDir = "docs"
 
 
 [params]
-  title       = " Reflections of a Big Little Girl"
+  title       = "Reflections of a Big Little Girl"
   subtitle    = "Shahida Perveen's Blog"
 
   cover       = "pathway.jpg"
@@ -20,6 +20,7 @@ publishDir = "docs"
 
   twitterName = "Mrs_spali"
   githubName = "shahida-perveen"
+  linkedinName = "Shahida Perveen"
 
   author = "Shahida Perveen"
   authorAvatar = "Shahida.png"
@@ -33,7 +34,7 @@ publishDir = "docs"
   singleViewStyle = "casper"
 
 [permalinks]
-  post = ":slug/"
+  post = "/:slug/"
 
 [[menu.main]]
   name = "Home"
