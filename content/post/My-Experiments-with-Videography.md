@@ -20,10 +20,8 @@ So, brace yourself...
 ### Beauty as I know it     
 
 
-I was suppose to make a video on any subject of my choice, so I decided to make this one. It is filmed, edited and scripted by yours truly. Hope you like it :)  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=vi/VDBc_3KsCHk" target="_blank">
- <img src="http://img.youtube.com/vi/vi/VDBc_3KsCHk/0.jpg" alt="BEAUTY AS I KNOW IT" width="240" height="180" border="10" />
-</a>
+I was suppose to make a video on any subject of my choice, so I decided to make this one. It is filmed, edited and scripted by yours truly. Hope you like it :) [![Stop Motion Video](http://img.youtube.com/vi/VDBc_3KsCHk/0.jpg)](http://www.youtube.com/watch?v=VDBc_3KsCHk "Beauty As I Know It")
+ 
    
 
 ### Stop Motion Video    
