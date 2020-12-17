@@ -22,7 +22,7 @@ So, brace yourself...
 
 I was suppose to make a video on any subject of my choice, so I decided to make this one. It is filmed, edited and scripted by yours truly. Hope you like it :)         
 
- {{< youtube VDBc_3KsCHk&ab >}}
+ {{< youtube VDBc_3KsCHk >}}
 
    
 
